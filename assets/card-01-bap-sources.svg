@@ -11,7 +11,7 @@
   <text x="108" y="138" class="title">苯駢芘從哪裡來？</text>
   <text x="108" y="202" class="sub">苯駢芘是 PAHs 的一種；來源不只在食品裡。</text>
   <text x="108" y="244" class="sub">它可能來自燃燒、加工或環境污染。</text>
-  <line x1="600" y1="326" x2="600" y2="1234" stroke="#b8c5ca" stroke-width="10" stroke-linecap="round"/>
+  <line x1="600" y1="331" x2="600" y2="1234" stroke="#b8c5ca" stroke-width="10" stroke-linecap="round"/>
   <path d="M600 1234l-24-32h48z" fill="#b8c5ca"/>
   <g>
     <rect x="108" y="326" width="984" height="194" rx="28" fill="#eef5f2" stroke="#386641" stroke-width="3"/>
@@ -44,3 +44,4 @@
   <text x="120" y="1512" font-family="'Swei Gospel Card',sans-serif" font-size="37" font-weight="900" fill="#fff">食品驗出苯駢芘，往往不是事件起點，</text>
   <text x="120" y="1565" font-family="'Swei Gospel Card',sans-serif" font-size="37" font-weight="900" fill="#fff">而是燃燒、加工或環境污染累積後的末端結果。</text>
 </svg>
+
